@@ -1,6 +1,6 @@
 Hello ! 🤓
 
-Je me passionne depuis plus de 6 mois pour le développement Web, et spécialement le Front-End.</br>
+Je suis passionné par le développement Web, et spécialement le Front-End.</br>
 À terme, je souhaite évoluer sur du Full-Stack Js. 💻
 
 Hobbies:
